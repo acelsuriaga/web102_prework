@@ -1,19 +1,19 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding for Indie Games*
 
-Submitted by: **Your Name Here**
+Submitted by: **Acel Suriaga**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding for Indie Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/3bbaXxe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  LICEcap! https://www.cockos.com/licecap/
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,6 +35,12 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+The hardest challenge for me was setting up my environment and familiarizing myself with Github and Github Desktop.
+As you can see I just have one single giant commit for my final submission, for the future I will try to be more consistent
+with staging commits and then do the push at the end when I'm ready to upload so there isn't just one single huge commit.
+Basically other than that, just managing my time and setting my expectations for assignments moving forward.
+I also definitely need to get better at Javascript as I was learning some of these concepts for the first time,
+so I imagine I was a lot slower than my classmates when it comes to finishing this. But yes, my head is in the game.
 
 ## License
 
